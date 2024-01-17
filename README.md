@@ -11,7 +11,7 @@ The data set comprises information on the following parameters:
 The full details of the data are available [here](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).
 ## Tools
 For this project, the following python libraries were used:
-- pandas - for data analysis
-- seaborn - for data visualization 
+- pandas & numpy - for data analysis
+- seaborn & matplotlib - for data visualization 
 ## Code
 The code is available as Jupyter Notebooks and can be found inside the scripts folder.
