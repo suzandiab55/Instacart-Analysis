@@ -13,3 +13,5 @@ The full details of the data are available [here](https://gist.github.com/jeremy
 For this project, the following python libraries were used:
 - pandas - for data analysis
 - seaborn - for data visualization 
+## Code
+The code is available as Jupyter Notebooks, listed in the scripts folder.
