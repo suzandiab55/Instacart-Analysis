@@ -14,4 +14,4 @@ For this project, the following python libraries were used:
 - pandas - for data analysis
 - seaborn - for data visualization 
 ## Code
-The code is available as Jupyter Notebooks, listed in the scripts folder.
+The code is available as Jupyter Notebooks and can be found inside the scripts folder.
